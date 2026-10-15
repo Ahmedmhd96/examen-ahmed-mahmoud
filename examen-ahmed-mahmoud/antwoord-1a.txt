@@ -1,0 +1,1 @@
+vraag 1a = in een row zit er 12 kolommen.
