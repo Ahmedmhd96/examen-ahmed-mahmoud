@@ -3,7 +3,7 @@ const prijs = 3.2;
 let aantalKoffies = 0;
 while (budget >= prijs) {
   aantalKoffies++;
-  if (aantalKoffies % 5 === 0) {
+  if (aantalKoffies % 20 === 0) {
     console.log(`Koffie ${aantalKoffies}: gratis!`);
   } else {
     budget -= prijs;
